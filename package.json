@@ -1,0 +1,13 @@
+{
+  "name": "esmoduleinterop-runtime-error",
+  "version": "1.0.0",
+  "repository": "https://github.com/Shingyx/esmoduleinterop-runtime-error",
+  "license": "MIT",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "tsc --build && node ."
+  },
+  "devDependencies": {
+    "typescript": "^3.4.3"
+  }
+}
